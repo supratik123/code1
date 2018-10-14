@@ -1,1 +1,1 @@
-learning git
+learning git. It is used for version control.
